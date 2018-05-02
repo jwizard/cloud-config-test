@@ -1,32 +1,30 @@
-# Operating System Files
+# Created by .ignore support plugin (hsz.mobi)
+### Java template
+# Compiled class file
+*.class
 
-*.DS_Store
-Thumbs.db
-*.sw?
-.#*
-*#
-*~
-*.sublime-*
+# Log file
+*.log
 
-# Build Artifacts
+# BlueJ files
+*.ctxt
 
-.gradle/
-build/
-target/
-bin/
-dependency-reduced-pom.xml
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
 
-# Eclipse Project Files
+# Package Files # e
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
 
-.classpath
-.project
-.settings/
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
 
-# IntelliJ IDEA Files
-
-*.iml
-*.ipr
-*.iws
-*.idea
-
-README.html
+.gitignore
+.idea/misc.xml
+.idea/modules.xml
+.idea/spring-cloud-config-repository.iml
+.idea/workspace.xml
