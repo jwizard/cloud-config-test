@@ -42,6 +42,7 @@
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="mariadb">
+      <url-template name="default" template="jdbc:mariadb://{host::127.0.0.1}?[:{port::3306}][/hongsee?][\?&lt;&amp;,user=root,password=mysqlpass,{:identifier}={:identifier}&gt;]" />
       <artifact name="MariaDB Connector J" use="true" version="2.2.1" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="true" />
