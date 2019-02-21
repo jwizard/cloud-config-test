@@ -26,8 +26,12 @@
           <option name="url" value="https://bitbucket.skbroadband.com/scm/nsutil/recomm-was.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/jwizard/recomm-if.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
+    <option name="cloneParentDir" value="$USER_HOME$/git" />
   </component>
 </application>
