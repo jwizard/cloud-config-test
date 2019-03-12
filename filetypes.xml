@@ -3,8 +3,10 @@
     <extensionMap>
       <mapping pattern="MainController" type="CLASS" />
       <mapping pattern=".gitignore_global" type="Git file" />
-      <mapping pattern="install_centos" type="PLAIN_TEXT" />
       <mapping pattern="install_mac" type="PLAIN_TEXT" />
+      <mapping pattern="install" type="PLAIN_TEXT" />
+      <mapping pattern="install_centos" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="sq" type="SQL" />
     </extensionMap>
