@@ -102,6 +102,10 @@
           <option name="url" value="https://bitbucket.skbroadband.com/scm/cxa/app-system-service.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://bitbucket.skbroadband.com/scm/cxa/app-pushserver-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/cloudpc" />
