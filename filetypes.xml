@@ -4,14 +4,14 @@
       <mapping pattern="MainController" type="CLASS" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="install_tomcat" type="PLAIN_TEXT" />
-      <mapping pattern="install_mac" type="PLAIN_TEXT" />
-      <mapping pattern="install" type="PLAIN_TEXT" />
       <mapping pattern="install_centos" type="PLAIN_TEXT" />
-      <mapping ext="config" type="PLAIN_TEXT" />
+      <mapping pattern="install_tomcat" type="PLAIN_TEXT" />
+      <mapping pattern="install" type="PLAIN_TEXT" />
+      <mapping pattern="install_mac" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
-      <mapping ext="jks" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
+      <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="sq" type="SQL" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
