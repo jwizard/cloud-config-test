@@ -1,4 +1,9 @@
 <application>
+  <component name="GithubAccounts">
+    <account id="889293b3-60db-48fc-bfea-4aaf8ffd6d5b" name="jwizard">
+      <server useHttp="false" host="github.com" />
+    </account>
+  </component>
   <component name="GithubSettings">
     <option name="LOGIN" value="jwizard" />
     <option name="AUTH_TYPE" value="BASIC" />
