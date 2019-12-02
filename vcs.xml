@@ -138,6 +138,10 @@
           <option name="url" value="https://bitbucket.skbroadband.com/scm/cxs/app-ms-auth.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://bitbucket.skbroadband.com/scm/cxs/app-ms-resource.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/cloudpc/stage" />
