@@ -14,6 +14,7 @@
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="sq" type="SQL" />
+      <mapping ext="plist" type="XML" />
     </extensionMap>
   </component>
 </application>
