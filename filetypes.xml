@@ -6,6 +6,7 @@
       <mapping pattern="install_tomcat" type="PLAIN_TEXT" />
       <mapping pattern="install_mac" type="PLAIN_TEXT" />
       <mapping pattern="ADTest.java" type="PLAIN_TEXT" />
+      <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="install" type="PLAIN_TEXT" />
       <mapping pattern="install_centos" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
