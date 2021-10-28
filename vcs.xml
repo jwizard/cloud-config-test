@@ -226,6 +226,10 @@
           <option name="url" value="https://bitbucket.skbroadband.com/scm/cxs/platform_cm_vi_driver_openstack4j.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://bitbucket.skbroadband.com/scm/cxs/plat-ms-vid4o.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/pom" />
