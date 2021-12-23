@@ -4,6 +4,7 @@
       <mapping pattern="MainController" type="CLASS" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="install_tomcat" type="PLAIN_TEXT" />
+      <mapping pattern="CXS이하_app-db-init_Repo를_참조해주세요" type="PLAIN_TEXT" />
       <mapping pattern="install_mac" type="PLAIN_TEXT" />
       <mapping pattern="ADTest.java" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
