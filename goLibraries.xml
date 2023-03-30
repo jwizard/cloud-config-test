@@ -3,6 +3,7 @@
     <option name="urls">
       <list>
         <option value="file:///usr/local/go" />
+        <option value="file://$USER_HOME$/go/go" />
       </list>
     </option>
   </component>
