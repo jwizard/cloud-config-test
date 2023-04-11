@@ -322,6 +322,10 @@
           <option name="url" value="ssh://git@bitbucket.skbroadband.com:7999/cxg/mng-metric-watcher.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@bitbucket.skbroadband.com:7999/cxs/cloudpc-helm.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/sourcetree" />
